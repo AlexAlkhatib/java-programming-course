@@ -1,0 +1,24 @@
+Next, you will create a package and class structure for a university application. In order to do this, you need to create Student, Course, and Enrollment classes with a few fields and a Main class to test your implementation.
+
+1. Create a package named university.
+
+2. Inside the university package, create the following classes with the specified fields:
+
+Student:
+studentId (int)
+name (String)
+Course:
+courseId (int)
+courseName (String)
+Enrollment:
+student (Student)
+course (Course)
+3. Create a package named main.
+
+4. Inside the main package, create a class named Main with a main method.
+
+5. Add the necessary imports to the Main class for the Student, Course, and Enrollment classes from the university package. I’m not giving away the syntax this time. If you can’t figure it out, IntelliJ will try to help you. And if that doesn’t work, take a sneak peek at the solution.
+
+6. In the main method, create Student, Course, and Enrollment objects and set some values for their fields.
+
+7. Print all the values of the field to the console to verify your solution.

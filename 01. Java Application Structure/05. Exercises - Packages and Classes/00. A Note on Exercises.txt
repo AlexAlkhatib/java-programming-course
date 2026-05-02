@@ -1,0 +1,15 @@
+In case you didn't know...this course is packed with exercises!
+
+Why?
+
+Because you need to actually think through problems and implement solutions in order to deeply learn your new skills. That's why these exercises are such an important part of this course.
+
+But an important note before you dive into your first exercises: you will struggle!
+
+While some exercises may be easy, others require you to think and maybe to go back and re-watch lessons.
+
+Embrace the struggle...the struggle is where your growth happens!
+
+Plus these exercises are great training for when you're working as a Java Developer in the real world. You'll be told "do X" and then you'll have to figure out how to do X.
+
+But fear not! Because even if you do struggle, a solution is provided for each exercise in the subsequent lesson (or in the GitHub repo for this course). But if you don't understand the solution, or are running into issues, I and your fellow students will always be here to help you in our online classroom - just hop over to the Discord channel for this course and I'd be happy to help you! But make sure you try - really try - before giving up on an exercise.

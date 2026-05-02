@@ -1,0 +1,30 @@
+Let’s create a package and class structure for a product inventory application. You will create Product, Inventory, and Warehouse classes with a few fields and a Main class to test your implementation.
+
+1. Create a package named inventory.
+
+2. Inside the inventory package, create the following classes with the specified fields:
+
+Product:
+productId (int)
+productName (String)
+price (double)
+Inventory:
+product (Product)
+quantity (int)
+Warehouse:
+warehouseId (int)
+warehouseName (String)
+inventories (String, later we'll create an ArrayList of Inventory objects)
+3. Create a package named main.
+
+4. Inside the main package, create a class named Main with a main method.
+
+5. Add the necessary imports to the Main class for the Product, Inventory, and Warehouse classes from the inventory package. They should go below the package statement:
+
+import inventory.Product;
+import inventory.Inventory;
+import inventory.Warehouse;
+
+6. In the main method, create Product, Inventory, and Warehouse objects and set some values for their fields.
+
+7. Print all the values of the field to the console to verify your solution.
