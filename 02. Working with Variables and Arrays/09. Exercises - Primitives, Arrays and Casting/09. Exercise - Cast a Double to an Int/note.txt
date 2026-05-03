@@ -1,0 +1,13 @@
+Assign an integer value, convert it to a string, and print the result.
+
+Steps:
+
+1. Create a new class for this exercise, add a main method.
+
+2. Declare a double variable number.
+
+3. Assign a value to number.
+
+4. Cast the double to an int
+
+5. Print the result.

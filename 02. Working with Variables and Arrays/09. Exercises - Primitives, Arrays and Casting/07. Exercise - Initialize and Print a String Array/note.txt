@@ -1,0 +1,11 @@
+Initialize a string array and print its elements.
+
+Steps:
+
+1. Create a new class for this exercise, add a main method.
+
+2. Declare a String array fruits.
+
+3. Assign your four favorite fruits to the array.
+
+4. Print the elements of the array.

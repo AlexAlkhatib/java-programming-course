@@ -1,0 +1,13 @@
+Assign two strings and print their concatenation.
+
+Steps:
+
+1. Create a new class for this exercise, add a main method.
+
+2. Declare two String variables str1 and str2.
+
+3. Assign values Hello and World to str1 and str2 respectively.
+
+4. Concatenate str1 and str2 and store the result in a variable named result. What should the type be?
+
+5. Print the concatenated string.
