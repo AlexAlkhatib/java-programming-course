@@ -1,0 +1,7 @@
+Predict the output of the given code snippet, which involves passing an object to a method and altering it.
+
+Code snippet: code-snippet.png
+
+Output: 
+Before: John, 25
+After: Jane, 30

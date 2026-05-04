@@ -1,0 +1,28 @@
+Pass an object to a method, modify its fields, and print the values before and after the method call.
+
+Steps:
+
+1. Create a Person class with a name and age.
+
+2. Create a class Main with a main method.
+
+3. Create a Person object in the main method, and set the name and age values.
+
+4. Print the values of the Person object.
+
+5. Call a method modifyPerson and pass the Person object to it.
+
+6. In the modifyPerson method, modify the fields of the Person parameter.
+
+7. Print the values of the Person object after the method call.
+
+8. Did you expect the result? (Explanation can be found in the solution.)
+
+
+
+Output:
+Before: John, 25
+After: Jane, 30
+
+Explanation:
+We can see that the values of the Person object changed after modifying them in the modifyPerson method. This is because Java uses pass-by-value for objects as well, but the value being passed is the reference to the object, not the object itself. Thus, any changes made to the object's fields within the method will persist outside the method.
