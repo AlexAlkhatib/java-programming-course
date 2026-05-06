@@ -1,0 +1,15 @@
+Calculate the average of odd numbers in an array using control flow statements.
+
+Steps:
+
+1. Declare an int array numbers.
+
+2. Assign values to the array.
+
+3. Use a for loop to iterate over the array, and use an if statement to check if the number is odd.
+
+4. Calculate the sum of the odd numbers and their count.
+
+5. Calculate the average of the odd numbers.
+
+6. Print the average after the loop

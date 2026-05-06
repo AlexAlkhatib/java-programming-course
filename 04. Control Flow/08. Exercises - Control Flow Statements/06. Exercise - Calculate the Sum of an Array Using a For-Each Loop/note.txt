@@ -1,0 +1,11 @@
+Use a for-each loop to calculate the sum of an array of integers.
+
+Steps:
+
+1. Declare an int array numbers.
+
+2. Assign 5 values to the array.
+
+3. Use a for-each loop to calculate the sum of the array.
+
+4. Print the sum after the loop

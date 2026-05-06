@@ -1,0 +1,11 @@
+Provide a comment on a student's grade using a switch statement.
+
+Steps:
+
+1. Declare a char variable grade.
+
+2. Assign a value to grade.
+
+3. Use a switch statement to comment on the grade. Come up with different comments for A, B, C, D, F. If it’s something else, comment “Invalid grade.”
+
+4. Print the comment. Run the code for different grades and verify the result.

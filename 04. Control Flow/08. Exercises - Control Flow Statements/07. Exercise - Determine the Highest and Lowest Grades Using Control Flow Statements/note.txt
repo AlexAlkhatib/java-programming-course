@@ -1,0 +1,9 @@
+Determine the highest and lowest grades in a list of student grades using control flow statements.
+
+Steps:
+
+1. Declare an int array grades with grades between 0 and 100.
+
+2. Assign at least 4 values to the array.
+
+3. Use a for loop to iterate over the array, and use if statements to determine the highest and lowest grades.

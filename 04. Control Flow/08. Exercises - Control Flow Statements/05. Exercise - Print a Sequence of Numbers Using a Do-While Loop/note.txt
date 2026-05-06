@@ -1,0 +1,9 @@
+Use a do-while loop to print a sequence of numbers from 1 to N.
+
+Steps:
+
+1. Declare an int variable n and an int variable i initialized to 1
+
+2. Assign a value to n.
+
+3. Use a do-while loop to print the sequence of numbers from 1 to N.

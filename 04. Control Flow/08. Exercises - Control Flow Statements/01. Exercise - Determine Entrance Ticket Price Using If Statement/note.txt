@@ -1,0 +1,18 @@
+Based on the age of a visitor, determine the price of an entrance ticket to an amusement park.
+
+Steps:
+
+1. Create a main method for all the exercises in this file. The steps will be executed in this main method.
+
+2. Declare an int variable age.
+
+3. Assign a value to age.
+
+4. Use an if statement to determine the ticket price based on the age.
+
+* Free under the age of 5
+* 5 for the age 5 - 12
+* 10 for the age 12 - 18
+* 15 for all other situations
+
+5. Print the ticket price. Run the code for different ages and verify the result.

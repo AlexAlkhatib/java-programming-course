@@ -1,0 +1,9 @@
+Use a for loop to print all the values in an array.
+
+Steps:
+
+1. Declare an int array numbers.
+
+2. Assign 5 values to the array.
+
+3. Use a for loop to iterate over the array and print each value.
