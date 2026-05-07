@@ -1,0 +1,13 @@
+Create a method that takes two integers as input parameters and prints their sum.
+
+Steps:
+
+1. Create a class named Adder.
+
+2. Inside the Adder class, create a static method named add that takes two int parameters.
+
+3. In the add method, calculate the sum of the two input parameters and print the result.
+
+4. Add a main method.
+
+5. In the main method, call the add method with two integers as arguments.

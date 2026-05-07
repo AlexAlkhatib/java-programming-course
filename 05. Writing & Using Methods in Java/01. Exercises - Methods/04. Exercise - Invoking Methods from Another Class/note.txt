@@ -1,0 +1,19 @@
+Create a method in one class and invoke it from another class.
+
+Steps:
+
+1. Create a class named Calculator.
+
+2. Inside the Calculator class, create a static method named add that takes two int parameters and returns an int.
+
+3. In the add method, calculate the sum of the two input parameters and return the result.
+
+4. Create another class named Main.
+
+5. Add a main method to the Main class.
+
+6. In the main method of the Main class, call the add method from Calculator with two integers as arguments and print the result.
+
+/*
+static methods can be called directly from the class without instantiating an object
+*/
