@@ -1,0 +1,17 @@
+Create two strings with the same value, compare them, concatenate them, and reverse them using StringBuilder.
+
+Steps:
+
+1. Create a class named StringBuilderExample.
+
+2. Add a main method.
+
+3. In the main method, create two StringBuilder objects with the same value.
+
+4. Compare the two StringBuilder objects using the equals method.
+
+5. Concatenate the two StringBuilder objects using the append method.
+
+6. Reverse one of the StringBuilder objects using the reverse method.
+
+7. Print the results of each operation.

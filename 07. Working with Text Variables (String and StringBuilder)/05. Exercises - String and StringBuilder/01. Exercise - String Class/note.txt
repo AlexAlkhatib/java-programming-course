@@ -1,0 +1,11 @@
+Create two String objects and print their values.
+
+Steps:
+
+1. Create a class named StringExample.
+
+2. Add a main method.
+
+3. In the main method, create two String objects with different values. Give them the variable names str1 and str2.
+
+4. Print the values of the two String objects.

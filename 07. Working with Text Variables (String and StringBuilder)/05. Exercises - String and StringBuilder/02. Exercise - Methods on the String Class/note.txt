@@ -1,0 +1,18 @@
+Use different methods available on the String class and print the results.
+
+Steps:
+
+1. Create a class named StringMethods.
+
+2. Add a main method.
+
+3. In the main method, create a String object with the value Hello, World!
+
+4. Print the following things:
+
+Length of the String
+Uppercase and lowercase version of the String
+Substring from character 7 to 12 of the String
+Replace world with Java
+
+5. Print the results of the method calls.

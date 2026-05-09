@@ -1,0 +1,15 @@
+Compare two strings using the equals and compareTo methods and print the results.
+
+Steps:
+
+1. Create a class named CompareStrings.
+
+2. Add a main method.
+
+3. In the main method, create two String objects with different values.
+
+4. Compare the two String objects using the equals methods.
+
+5. Print the results of the comparison. 
+
+6. Modify the values to be the same, and verify that false changes to true.

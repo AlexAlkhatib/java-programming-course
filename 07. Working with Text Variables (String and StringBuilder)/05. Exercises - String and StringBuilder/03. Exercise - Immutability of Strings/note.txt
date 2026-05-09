@@ -1,0 +1,15 @@
+Show that String objects are immutable by trying to modify one and printing the result.
+
+Steps:
+
+1. Create a class named Immutability.
+
+2. Add a main method.
+
+3. In the main method, create a String object with a value.
+
+4. Try to modify the String object by using a method like toUpperCase.
+
+5. Print the original String object and the modified String object.
+
+6. Understand that the original object didn’t change.
