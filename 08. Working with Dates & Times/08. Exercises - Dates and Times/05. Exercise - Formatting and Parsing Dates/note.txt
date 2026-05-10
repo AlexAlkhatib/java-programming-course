@@ -1,0 +1,13 @@
+Format a LocalDateTime object and parse a date string into a LocalDate object.
+
+Steps:
+
+1. Create a class named DateTimeFormattingParsingExample.
+
+2. In the main method, create a LocalDateTime object representing the current time.
+
+3. Format the LocalDateTime object using a DateTimeFormatter with a specific pattern.
+
+4. Parse a date string for November 21 2023 into a LocalDate object using a DateTimeFormatter with a specific pattern.
+
+5. Print the formatted date and the parsed date.

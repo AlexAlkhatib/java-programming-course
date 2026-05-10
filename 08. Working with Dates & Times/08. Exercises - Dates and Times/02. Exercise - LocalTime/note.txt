@@ -1,0 +1,9 @@
+Create a LocalTime object representing a specific time and print it.
+
+Steps:
+
+1. Create a class named LocalTimeExample.
+
+2. In the main method, create a LocalTime object representing a meeting time at 1.30PM (13.30).
+
+3. Print the LocalTime object.

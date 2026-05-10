@@ -1,0 +1,9 @@
+Create a LocalDate object representing a specific date and print it.
+
+Steps:
+
+1. Create a class named LocalDateExample. Please note, you can get stuck very easily if you give your class names the same name as the built-in Java object. So make sure to not call it LocalDate, LocalTime, etc.
+
+2. In the main method, create a LocalDate object representing your date of birth. Make sure to import LocalDate.
+
+3. Print the LocalDate object.

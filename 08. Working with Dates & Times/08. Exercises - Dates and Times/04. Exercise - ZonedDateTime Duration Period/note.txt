@@ -1,0 +1,13 @@
+Create a ZonedDateTime object for an overseas event, calculate the duration between two LocalTime objects, and the period between two LocalDate objects.
+
+Steps:
+
+1. Create a class named ZonedDateTimeDurationPeriodExample
+
+2. In the main method, create a ZonedDateTime object for an overseas event.
+
+3. Calculate the duration between two LocalTime objects. One representing 9AM and the other representing 5PM.
+
+4. Calculate the period between two LocalDate objects. One being January 1st 2023 and the other December 31 2023.
+
+5. Print all the results.
