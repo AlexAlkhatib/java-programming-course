@@ -1,0 +1,15 @@
+Create a class named Person with a custom constructor that takes a name and age as arguments.
+
+Steps:
+
+1. Create a class named Person.
+
+2. Add private fields name (String) and age (int) to the Person class.
+
+3. Create a custom constructor in the Person class that takes a String parameter for the name and an int parameter for the age.
+
+4. Assign the constructor parameters to the corresponding fields.
+
+5. Create a class named CustomConstructorExample with a main method.
+
+6. In the main method, create an instance of the Person class using the custom constructor.
