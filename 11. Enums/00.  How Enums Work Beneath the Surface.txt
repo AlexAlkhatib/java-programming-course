@@ -1,0 +1,7 @@
+Enums are Java Classes with some particularities:
+* Enums can't inherit from other Java classes because Enums already inherit from java.lang.Enum and that violates the single inheritance principle in Java
+* Other java classes can't extend Enums
+
+What happens when we use an enum ?
+* All the constants are an instance of the special class
+* Java converts ach enum constant into a static final instance of the enum class
