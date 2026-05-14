@@ -1,0 +1,7 @@
+Modify the Drawable interface to include a default method erase().
+
+Steps:
+
+1. Modify the Drawable interface.
+
+2. Add a default method erase() that prints "Erasing the drawing."

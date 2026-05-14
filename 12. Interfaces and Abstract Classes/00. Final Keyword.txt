@@ -1,0 +1,3 @@
+* When a class is final, it cannot be extended.
+* When a method is final it canoot be overridden.
+* A final variable can only be assigned a value once.

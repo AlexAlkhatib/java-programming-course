@@ -1,0 +1,9 @@
+Create a class named Circle that implements the Drawable interface from the previous exercise.
+
+Steps:
+
+1. Create a class named Circle.
+
+2. Implement the Drawable interface.
+
+3. Override the draw() method in the Circle class and print "Drawing a circle."

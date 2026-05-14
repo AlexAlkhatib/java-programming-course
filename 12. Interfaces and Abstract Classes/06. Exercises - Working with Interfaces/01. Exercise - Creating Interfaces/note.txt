@@ -1,0 +1,7 @@
+Create an interface named Drawable with a single method draw().
+
+Steps:
+
+1. Create an interface named Drawable.
+
+2. Add a method signature for draw().
