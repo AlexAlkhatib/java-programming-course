@@ -1,0 +1,11 @@
+Create a Queue of Character objects and enqueue three elements to it.
+
+Steps:
+
+1. Add a class QueueExample and give it a main method.
+
+2. Import java.util.Queue and java.util.LinkedList.
+
+3. Create a Queue<Character> object.
+
+4. Add three Character elements to the queue.

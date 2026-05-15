@@ -1,0 +1,11 @@
+Create a Map with String keys and Integer values, and add three key-value pairs to it.
+
+Steps:
+
+1. Add a class MapExample and give it a main method.
+
+2. Import java.util.Map and java.util.HashMap.
+
+3. Create a Map<String, Integer> object.
+
+4. Add three key-value pairs to the map that represents names and ages.

@@ -1,0 +1,11 @@
+Create a Set of Integer objects and add four elements to it.
+
+Steps:
+
+1. Add a class SetExample and give it a main method.
+
+2. Import java.util.Set and java.util.HashSet.
+
+3. Create a Set<Integer> object.
+
+4. Add four Integer elements to the set.

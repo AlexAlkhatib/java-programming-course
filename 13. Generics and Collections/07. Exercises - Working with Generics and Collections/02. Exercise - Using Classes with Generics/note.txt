@@ -1,0 +1,13 @@
+Create a Box object with an Integer content and a Box object with a String content.
+
+Steps:
+
+1. Add a class Main with a main method.
+
+2. In there, create a Box<Integer> object.
+
+3. Set the content of the Box<Integer> object to an Integer value.
+
+4. Create a Box<String> object.
+
+5. Set the content of the Box<String> object to a String value.

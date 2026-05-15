@@ -1,0 +1,9 @@
+Create a generic class named Box with a single type parameter T. The class should have a private member content of type T and a getter and setter for it.
+
+Steps:
+
+1. Create a class named Box with a type parameter T.
+
+2. Add a private member content of type T.
+
+3. Create a getter and setter for content.
