@@ -1,0 +1,7 @@
+Implement the StringFormatter interface using a lambda expression to convert a string to uppercase.
+
+Steps:
+
+1. In the LambdaExample class, create a lambda expression that implements the StringFormatter interface.
+
+2. Use the lambda expression to convert a string to uppercase.

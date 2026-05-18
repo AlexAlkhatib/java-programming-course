@@ -1,0 +1,7 @@
+Implement the NumericOperator interface using a lambda expression to find the maximum of two integers.
+
+Steps:
+
+1. In the LambdaExample class, create another lambda expression that implements the NumericOperator interface.
+
+2. Use the lambda expression to find the maximum of two integers.

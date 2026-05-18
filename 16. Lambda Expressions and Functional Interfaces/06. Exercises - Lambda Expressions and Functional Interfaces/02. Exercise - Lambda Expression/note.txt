@@ -1,0 +1,7 @@
+Implement the NumericOperator interface using a lambda expression to perform addition.
+
+Steps:
+
+1. In a class named LambdaExample with a main method, create a lambda expression that implements the NumericOperator interface.
+
+2. Use the lambda expression to perform addition on two integers.
