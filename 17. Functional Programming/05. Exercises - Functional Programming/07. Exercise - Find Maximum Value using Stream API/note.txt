@@ -1,0 +1,9 @@
+Find the maximum value in a list of integers using the stream API.
+
+Steps:
+
+1. Create a class named MaximumValueExample with a main method.
+
+2. In the main method, create a List of integers.
+
+3. Use the stream API to find the maximum value in the list.

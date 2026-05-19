@@ -1,0 +1,15 @@
+Rewrite a for loop that prints each string in a list using the forEach method.
+
+Steps:
+
+1. Create a class named LoopToForEachExample with a main method.
+
+2. In the main method, create a List of strings.
+
+3. Consider the following for loop:
+
+        for (String s : strings) {
+            System.out.println(s);
+        }
+
+4. Replace the for loop with the forEach method and a lambda expression.

@@ -1,0 +1,9 @@
+Count the number of even numbers in a list of integers using the stream API.
+
+Steps:
+
+1. Create a class named TerminalOperationsExample with a main method.
+
+2. In the main method, create a List of integers.
+
+3. Use the stream API to count the number of even numbers in the list.

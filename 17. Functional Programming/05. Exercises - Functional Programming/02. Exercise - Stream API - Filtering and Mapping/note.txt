@@ -1,0 +1,13 @@
+Use the stream API to filter a list of integers and then square the remaining numbers.
+
+Steps:
+
+1. Create a class named StreamExample with a main method.
+
+2. In the main method, create a List of integers.
+
+3. Use the stream API to filter out even numbers 
+
+4. Next, square each remaining number. 
+
+5. Use collect to get the results in a new list.

@@ -1,0 +1,9 @@
+Calculate the sum of squares of a list of integers using the reduce method.
+
+Steps:
+
+1. Create a class named SumOfSquaresExample with a main method.
+
+2. In the main method, create a List of integers.
+
+3. Use the stream API to square each number in the list and then calculate the sum using the reduce method.
