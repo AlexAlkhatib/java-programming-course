@@ -1,0 +1,22 @@
+Tic Tac Toe is a simple two-player game played on a 3x3 grid. Players take turns placing their symbol (either "X" or "O") in an empty cell. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
+
+Steps:
+
+1. Create a class named TicTacToe with the following private fields:
+
+	a. board (char[][])
+	b. currentPlayer (char)
+
+2. Add a constructor that initializes the board with empty cells (' ') and sets the current player to 'X'.
+
+3. Add a public method named play() that contains the game loop.
+
+4. In the play() method, implement the game loop that allows the players to take turns placing their symbols on the board until there's a winner or the board is full (a draw).
+
+5. Add a private method named isWinningMove() that checks if the current player has won after their latest move.
+
+6. Add a private method named isBoardFull() that checks if the board is full.
+
+7. Create a class named TicTacToeGame with a main method.
+
+8. In the main method, instantiate a TicTacToe object and call the play() method.

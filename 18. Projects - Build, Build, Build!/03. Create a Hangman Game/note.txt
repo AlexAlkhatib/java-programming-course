@@ -1,0 +1,23 @@
+Hangman is a word-guessing game where the player tries to guess a secret word by suggesting letters within a certain number of attempts. The game provides visual feedback in the form of a hangman drawing that gets closer to completion with each incorrect guess.
+
+Project Instructions:
+
+1. Create a class named Hangman with the following private fields:
+
+secretWord (String)
+attempts (int)
+guessedWord (StringBuilder)
+guessedLetters (HashSet<Character>)
+2. Add a constructor that takes a String parameter for the secretWord and an int parameter for the maximum number of attempts.
+
+3. Initialize the guessedWord field with underscores representing the secret word's length.
+
+4. Add a public method named play() that contains the game loop.
+
+5. In the play() method, implement the game loop that allows the user to guess letters until the maximum number of attempts is reached or the secret word is guessed correctly.
+
+6. Provide visual feedback in the form of a hangman drawing that gets closer to completion with each incorrect guess.
+
+7. Create a class named HangmanGame with a main method.
+
+8. In the main method, instantiate a Hangman object with a secret word and a maximum number of attempts, then call the play() method.

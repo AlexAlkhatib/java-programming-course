@@ -1,0 +1,23 @@
+A trivia game where players answer multiple-choice questions from various categories. Players are awarded points for correct answers.
+
+Steps:
+
+1. Create a class named Question with the following private fields:
+
+	* question (String)
+	* options (String[])
+	* correctAnswer (int)
+
+2. Add a constructor that takes question, options, and correctAnswer as parameters and initializes the fields.
+
+3. Add a public method named isCorrectAnswer(int answer) that returns true if the given answer matches the correctAnswer field.
+
+4. Create a class named TriviaGame with a main method.
+
+5. In the main method, create an array of Question objects with various trivia questions and their options.
+
+6. Create a method named play() that loops through the questions, displays them along with the options, and prompts the user for their answer.
+
+7. For each correct answer, increment the player's score.
+
+8. After all questions have been answered, display the player's final score.
