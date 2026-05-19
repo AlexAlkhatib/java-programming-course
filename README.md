@@ -1,4 +1,4 @@
-# ☕ Java & Object-Oriented Programming Concepts
+# ☕ Java & Object-Oriented Programming Course
 
 Ce dépôt a pour objectif de présenter et illustrer les fondamentaux du langage **Java** ainsi que les concepts essentiels de la **programmation orientée objet (POO)** à travers des exemples progressifs, structurés et pratiques.
 
