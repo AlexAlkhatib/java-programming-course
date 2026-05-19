@@ -1,96 +1,231 @@
 # ☕ Java & Object-Oriented Programming Concepts
 
-Ce dépôt a pour objectif de présenter et illustrer les **fondamentaux du langage Java** ainsi que les **principes de la programmation orientée objet (POO)** à travers des exemples concrets, progressifs et bien structurés.
+Ce dépôt a pour objectif de présenter et illustrer les fondamentaux du langage **Java** ainsi que les concepts essentiels de la **programmation orientée objet (POO)** à travers des exemples progressifs, structurés et pratiques.
 
-Il s’adresse aussi bien aux **débutants** souhaitant comprendre Java en profondeur qu’aux **développeurs** voulant revoir ou consolider les bases théoriques et pratiques de la POO.
-
-
-## 🎯 Objectifs du Projet
-
-* Comprendre la **syntaxe et les bases du langage Java**
-* Maîtriser les **principes fondamentaux de la programmation orientée objet**
-* Appliquer les bonnes pratiques de conception orientée objet
-* Illustrer chaque concept par des **exemples simples et concrets**
-* Servir de **support pédagogique** et de **référence personnelle**
+Le repository suit une approche pédagogique organisée par thèmes afin de faciliter l’apprentissage du langage Java, des bases jusqu’aux concepts plus avancés.
 
 
-## 📚 Concepts Java Abordés
+# 🎯 Objectifs du Projet
 
-* Types primitifs et objets
-* Variables, opérateurs et expressions
-* Structures de contrôle (`if`, `switch`, `for`, `while`)
-* Méthodes et passage de paramètres
-* Tableaux et collections (`List`, `Set`, `Map`)
-* Gestion des exceptions (`try/catch`, exceptions personnalisées)
-* Packages et organisation du code
-* Classes utilitaires et méthodes statiques
+✔️ Comprendre les fondamentaux du langage Java
+✔️ Maîtriser les concepts de programmation orientée objet
+✔️ Découvrir les bonnes pratiques de développement Java
+✔️ Illustrer chaque notion avec des exemples concrets
+✔️ Construire une base solide pour le développement logiciel Java
+
+---
+
+# 📁 Structure du Repository
+
+```bash
+📦 java-oop-concepts
+ ┣ 📂 01. Java Application Structure
+ ┣ 📂 02. Working with Variables and Arrays
+ ┣ 📂 03. Primitives & Objects
+ ┣ 📂 04. Control Flow
+ ┣ 📂 05. Writing and Using Methods in Java
+ ┣ 📂 06. Access Modifiers and Static
+ ┣ 📂 07. Working with Text Variables
+ ┣ 📂 08. Working with Dates and Times
+ ┣ 📂 09. Object-Oriented Programming (OOP)
+ ┣ 📂 10. Constructors
+ ┣ 📂 11. Enums
+ ┣ 📂 12. Interfaces and Abstract Classes
+ ┣ 📂 13. Generics and Collections
+ ┣ 📂 14. Exceptions
+ ┣ 📂 15. Files
+ ┣ 📂 16. Lambda Expressions and Functional Interfaces
+ ┣ 📂 17. Functional Programming
+ ┣ 📂 18. Project - Build, Build Build!
+ ┗ 📄 README.md
+```
 
 
-## 🧱 Programmation Orientée Objet (POO)
+# 📚 Concepts Java Abordés
 
-Les principes clés de la POO sont expliqués et illustrés :
+## 01. Java Application Structure
+
+* Structure d’une application Java
+* Méthode `main`
+* Compilation et exécution
+* Organisation des fichiers Java
+
+
+## 02. Working with Variables and Arrays
+
+* Variables et constantes
+* Types de données
+* Tableaux
+* Manipulation de données
+
+
+## 03. Primitives & Objects
+
+* Différence entre types primitifs et objets
+* Wrappers
+* Références mémoire
+* Passage par valeur
+
+
+## 04. Control Flow
+
+* Conditions (`if`, `switch`)
+* Boucles (`for`, `while`, `do-while`)
+* Instructions de contrôle
+
+
+## 05. Writing and Using Methods in Java
+
+* Déclaration de méthodes
+* Paramètres et valeurs de retour
+* Surcharge de méthodes
+* Réutilisation du code
+
+
+## 06. Access Modifiers and Static
+
+* `public`, `private`, `protected`
+* Encapsulation
+* Membres statiques
+* Méthodes utilitaires
+
+
+## 07. Working with Text Variables
+
+* Manipulation de chaînes (`String`)
+* Méthodes utilitaires
+* Comparaison et formatage de texte
+
+
+## 08. Working with Dates and Times
+
+* API Date/Time Java
+* `LocalDate`
+* `LocalDateTime`
+* Formatage des dates
+
+
+## 09. Object-Oriented Programming (OOP)
+
+Les principes fondamentaux de la POO :
 
 ### 🔹 Encapsulation
 
-* Attributs privés
+* Protection des données
 * Getters / Setters
-* Protection de l’état interne des objets
-
-### 🔹 Abstraction
-
-* Classes abstraites
-* Interfaces
-* Séparation des responsabilités
 
 ### 🔹 Héritage
 
 * Réutilisation du code
 * Hiérarchie de classes
-* Mot-clé `extends`
 
 ### 🔹 Polymorphisme
 
-* Surcharge et redéfinition de méthodes
-* Types abstraits et dynamiques
-* Utilisation via interfaces et classes parentes
+* Redéfinition de méthodes
+* Types abstraits
+
+### 🔹 Abstraction
+
+* Interfaces
+* Classes abstraites
 
 
-## 🧩 Autres Concepts Avancés
+## 10. Constructors
 
-* Constructeurs et surcharge
-* Classes immuables
-* Relations entre classes (association, composition, agrégation)
-* Principes SOLID (introduction)
-* Bonnes pratiques de conception orientée objet
+* Constructeurs
+* Surcharge de constructeurs
+* Initialisation des objets
 
 
-## 📁 Structure du Repository
+## 11. Enums
 
-* Chaque dossier correspond à un **thème précis** avec des exemples indépendants et commentés.
+* Types énumérés
+* Gestion des constantes
+* Utilisation avancée des enums
 
 
-## 🛠️ Technologies Utilisées
+## 12. Interfaces and Abstract Classes
+
+* Contrats via interfaces
+* Abstraction
+* Héritage multiple via interfaces
+
+
+## 13. Generics and Collections
+
+* `List`, `Set`, `Map`
+* Génériques (`<T>`)
+* Collections Framework
+
+
+## 14. Exceptions
+
+* Gestion des erreurs
+* `try/catch/finally`
+* Exceptions personnalisées
+
+
+## 15. Files
+
+* Lecture et écriture de fichiers
+* Gestion des flux
+* Manipulation de fichiers texte
+
+
+## 16. Lambda Expressions and Functional Interfaces
+
+* Expressions lambda
+* Interfaces fonctionnelles
+* Syntaxe moderne Java
+
+
+## 17. Functional Programming
+
+* Streams API
+* Programmation fonctionnelle
+* Opérations `map`, `filter`, `reduce`
+
+
+## 18. Project - Build, Build Build!
+
+Projet pratique permettant d’appliquer l’ensemble des concepts étudiés dans le repository.
+
+
+# 🛠️ Technologies Utilisées
 
 * **Java (JDK 8+)**
-* Programmation orientée objet
-* Collections Java
-* Gestion des exceptions
+* **Programmation Orientée Objet**
+* **Java Collections Framework**
+* **Java Streams API**
+* **Gestion des exceptions**
+* **Manipulation de fichiers**
 
 
-## 📌 Public Cible
+# 🎯 Public Cible
+
+Ce repository est destiné à :
 
 * Étudiants en informatique
 * Développeurs débutants en Java
-* Développeurs souhaitant revoir la POO
-* Toute personne préparant des entretiens techniques Java
+* Personnes souhaitant apprendre la POO
+* Développeurs préparant des entretiens techniques Java
 
 
-## 👤 Auteur
+# 🚀 Compétences Démontrées
+
+* ✔️ Développement Java
+* ✔️ Programmation orientée objet
+* ✔️ Encapsulation, héritage et polymorphisme
+* ✔️ Manipulation des collections
+* ✔️ Gestion des exceptions
+* ✔️ Programmation fonctionnelle moderne en Java
+
+
+# 👤 Auteur
 
 **Alex Alkhatib**
 
 
-## 📄 Licence
+# 📄 Licence
 
-MIT License
-Copyright © 2026 Alex Alkhatib
+MIT License — Copyright © 2026 Alex Alkhatib
