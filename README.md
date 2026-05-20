@@ -7,11 +7,11 @@ Le repository suit une approche pédagogique organisée par thèmes afin de faci
 
 # 🎯 Objectifs du Projet
 
-* ✔️ Comprendre les fondamentaux du langage Java
-* ✔️ Maîtriser les concepts de programmation orientée objet
-* ✔️ Découvrir les bonnes pratiques de développement Java
-* ✔️ Illustrer chaque notion avec des exemples concrets
-* ✔️ Construire une base solide pour le développement logiciel Java
+- ✔️ Comprendre les fondamentaux du langage Java
+- ✔️ Maîtriser les concepts de programmation orientée objet
+- ✔️ Découvrir les bonnes pratiques de développement Java
+- ✔️ Illustrer chaque notion avec des exemples concrets
+- ✔️ Construire une base solide pour le développement logiciel Java
 
 ---
 
@@ -213,12 +213,12 @@ Ce repository est destiné à :
 
 # 🚀 Compétences Démontrées
 
-* ✔️ Développement Java
-* ✔️ Programmation orientée objet
-* ✔️ Encapsulation, héritage et polymorphisme
-* ✔️ Manipulation des collections
-* ✔️ Gestion des exceptions
-* ✔️ Programmation fonctionnelle moderne en Java
+- ✔️ Développement Java
+- ✔️ Programmation orientée objet
+- ✔️ Encapsulation, héritage et polymorphisme
+- ✔️ Manipulation des collections
+- ✔️ Gestion des exceptions
+- ✔️ Programmation fonctionnelle moderne en Java
 
 
 # 👤 Auteur
